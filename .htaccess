@@ -1,0 +1,3 @@
+Options -Indexes
+# Akses web hanya melalui direktori public.
+Require all denied
